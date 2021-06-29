@@ -18,6 +18,6 @@ NCFLOWSPEED takes a negative contrast, time-series image stack of a vascular net
 
 In addition to the final blood flow speed map, the script also saves the digital line scan image (OUTPUT/xDistyTime_LinFitSlopeQual) corresponding to each vessel segment (OUTPUT/HL_Mask), and the estimated slope of the line scan that is estimated by Radon Transform and proportional to the local flow speed.
 
-![*NCFLOWSPEED Input*] (https://github.com/juwellwwu/NCFLOWSPEED/blob/main/README%20Img/NCFLOWSPEED%20Input.gif)
+![*NCFLOWSPEED Input*] (https://github.com/juwellwwu/NCFLOWSPEED/blob/main/README%20Img/NCFLOWSPEED%20Input.gif?raw=true)
 
-![*NCFLOWSPEED Output*] (https://github.com/juwellwwu/NCFLOWSPEED/blob/main/README%20Img/NCFLOWSPEED%20Output.png)
+![*NCFLOWSPEED Output*] (https://github.com/juwellwwu/NCFLOWSPEED/blob/main/README%20Img/NCFLOWSPEED%20Output.png?raw=true)

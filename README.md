@@ -10,7 +10,9 @@ The scripts were last revised and tested in MATLAB R2018a, using a 3.1GHz Intel 
 
 1. Download package, place in MATLAB path. Add path.
 2. Enter path .../MATLAB/NCFLOWSPEED
-3. Run NCFLOWSPEED.m
+3. Install the "Better Skeletonization" package by Nicolas Howe from MATLAB File Exchange:
+https://www.mathworks.com/matlabcentral/fileexchange/11123-better-skeletonization
+5. Run NCFLOWSPEED.m
 
 ## Description
 
